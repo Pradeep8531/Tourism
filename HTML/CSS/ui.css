@@ -1,0 +1,34 @@
+#login, #signup ,#Aboutus {
+    border: 0px;
+    background-color: transparent;
+    padding: 10px;
+    position: relative;
+    font-size: medium;
+    
+}
+
+table.login_signup {
+    position: relative;
+    margin-left : auto;
+    
+}
+.ls{
+    width: 100%;
+}
+
+#login:hover {
+    color: brown;
+}
+#signup:hover {
+    color: brown;
+}
+.phrase{
+    width: 50%;
+    height: auto;
+    margin-right: auto;
+}
+
+
+body{
+    background-image: url('golkonda.jpeg');
+}
